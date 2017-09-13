@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BlaBlaWild</string>
+    <string name="search_text">Rechercher</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Welcome to the WCS !</string>
+    <string name="edittext1">Départ</string>
+    <string name="edittext2">Destination</string>
+    <string name="edittext3">Date</string>
+    <string name="val">Rechercher</string>
+    <string name="refut">You have to fill in the name and first name !</string>
+    <string name="Congratulations">"Congratulations"</string>
+</resources>
