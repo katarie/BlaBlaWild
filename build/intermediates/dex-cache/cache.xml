@@ -3,48 +3,48 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\katarie\.android\build-cache\978a5eac8c0d3c1fe4dc27ce7cc3396410972f1b\output\jars\classes.jar"
+        jar="C:\Users\katarie\Documents\WCS\BlaBlaWild-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
-        <dex dex="C:\Users\katarie\Documents\WCS\BlaBlaWild2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ed495b68736015030da1f1ea47a37a6f3c197a4d\classes.dex" />
+        sha1="7ebae9bbf81fa8d6a8101d0f619eaaff3eaebe13">
+        <dex dex="C:\Users\katarie\Documents\WCS\BlaBlaWild-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b3e86be755b5526ec7a5930d2e2d5f130d4b734e\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\katarie\Documents\WCS\BlaBlaWild2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="C:\Users\katarie\.android\build-cache\89813ca539b731b68fa2235ea8930b9a298401e6\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="9e8043382780b18e6610cb96528521ee0843aa0a">
-        <dex dex="C:\Users\katarie\Documents\WCS\BlaBlaWild2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_82ddedc0ac1b6eef8d04b1bbffe7b3483ccdb02e\classes.dex" />
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="C:\Users\katarie\Documents\WCS\BlaBlaWild-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_52a54f690cb1c6b3f47fdd776d69dcd37dcc0dc7\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\katarie\.android\build-cache\a0c0d3f061e84d24d512d19c5af409115634b66b\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
-        <dex dex="C:\Users\katarie\Documents\WCS\BlaBlaWild2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9bf7935d4887e8b98102abc50c645d9b37c65c2f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\katarie\Documents\WCS\BlaBlaWild2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="C:\Users\katarie\Documents\WCS\BlaBlaWild-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="C:\Users\katarie\Documents\WCS\BlaBlaWild2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_fd0637e9c79fb572541fca81c4c0b80c0591747e\classes.dex" />
+        <dex dex="C:\Users\katarie\Documents\WCS\BlaBlaWild-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_2add73d1876b1cf038ead7c036423f0a6d20ca78\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\katarie\.android\build-cache\d65d61f89c1f6f713eb8b997defa607c99346f16\output\jars\classes.jar"
+        jar="C:\Users\katarie\.android\build-cache\c0025a3bb57af433ce76ab6775b5ff2d333f8ea2\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="95519720620b553f63afc789beba9ad582807f7c">
-        <dex dex="C:\Users\katarie\Documents\WCS\BlaBlaWild2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e9e7d7fb613f6b2756d9919afa33cc7eb575ecfb\classes.dex" />
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="C:\Users\katarie\Documents\WCS\BlaBlaWild-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_68bdf8da67a12c73d25e2950a53d9909b942aafd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\katarie\.android\build-cache\be338cf87140266a28f9218391542cfb585ca46c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\Users\katarie\Documents\WCS\BlaBlaWild-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_33a88ba82aa4e71b7d6fb273b23c754809601b6e\classes.dex" />
     </item>
 
 </items>
