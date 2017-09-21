@@ -4,6 +4,7 @@ import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.ListView;
+import android.widget.Toast;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -21,9 +22,10 @@ public class ViewSearchItineraryResultsListActivity extends AppCompatActivity {
 
 // Intent
         Intent intent = getIntent();
-        String message = intent.getStringExtra("lieuDepart");
-        String message2 = intent.getStringExtra("lieuDepart2");
+        String message = intent.getStringExtra("Depart");
+        String message2 = intent.getStringExtra("Destination");
         setTitle(message + " >> " + message2);
+
 
 // Array List
         mListViewResults = (ListView) findViewById(R.id.listView);
